@@ -150,9 +150,9 @@
           <td align="left" bgcolor="#ffffff"
               style="padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
             <p style="margin: 0;">
-              Cảm ơn bạn đã bắt đầu quy trình tạo tài khoản của Shop. Chúng tôi muốn chắc
+              Cảm ơn bạn đã bắt đầu quy trình tạo tài khoản của Hệ thống. Chúng tôi muốn chắc
               chắn rằng đây thực sự là bạn. Vui lòng nhập mã xác minh sau khi nhận thông báo này. Nếu không muốn tạo tài
-              khoản, bạn có thể bỏ qua thông báo này. (Mã này có hiệu lực trong 10 phút).
+              khoản, bạn có thể bỏ qua thông báo này.
             </p>
           </td>
         </tr>
@@ -181,8 +181,7 @@
           <td align="left" bgcolor="#ffffff"
               style="padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
             <p style="margin: 0;">
-              Nếu bạn không còn mở trang đăng ký, có thể nhấn <strong><a href="${link}" target="_blank">liên kết
-                  này</a></strong> để tiếp tục nhập mã xác nhận.
+
             </p>
           </td>
         </tr>

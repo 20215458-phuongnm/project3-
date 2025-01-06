@@ -227,7 +227,7 @@ public class OrderServiceImpl implements OrderService {
                 ));
 
                 paypalRequest.setApplicationContext(new PaypalRequest.PayPalAppContext()
-                        .setBrandName("Phuc Anh Duong")
+                        .setBrandName("MPP")
                         .setLandingPage(PaymentLandingPage.BILLING)
                         .setReturnUrl(AppConstants.BACKEND_HOST + "/client-api/orders/success")
                         .setCancelUrl(AppConstants.BACKEND_HOST + "/client-api/orders/cancel"));
