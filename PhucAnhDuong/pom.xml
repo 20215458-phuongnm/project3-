@@ -8,11 +8,11 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.phucanhduong</groupId>
-    <artifactId>phucanhduong</artifactId>
+    <groupId>com.mpp</groupId>
+    <artifactId>mpp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>phucanhduong</name>
-    <description>phucanhduong</description>
+    <name>mpp</name>
+    <description>mpp</description>
     <properties>
         <java.version>11</java.version>
         <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
